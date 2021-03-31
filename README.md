@@ -1,1 +1,2 @@
 # elso
+Specifikáció megírása
