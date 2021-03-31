@@ -1,2 +1,3 @@
 # elso
 Specifikáció megírása
+fejlesztünk...
