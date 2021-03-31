@@ -1,3 +1,4 @@
 # elso
 Specifikáció megírása
-fejlesztünk...
+fejlesztés elkezdése
+tesztelés
